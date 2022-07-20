@@ -75,3 +75,4 @@ b. 回到项目 setting 中， 把上一步获取的 **Personal access tokens** 
 
 修改完成后 push 到 main 分支, 会自动触发执行 action，等待几分钟后，便可以访问自己的排行榜页面了
 
+
