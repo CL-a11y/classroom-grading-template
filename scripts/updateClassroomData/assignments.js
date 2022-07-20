@@ -69,9 +69,8 @@ async function fetchAssignments(classroom, assigment, sessionToken) {
                 }
                 // console.log("result:::"+result)
                 if (!result) {
-                    console.log(`download fail: ${url}`)
-                    reject(`download fail: ${url}`)
-                    return;
+                    console.log('parseCSVContent maybe fail...')
+                    reject(`parseCSVContent fail: ${url}`)
                 }
                 resolve(result.slice(1))
             }

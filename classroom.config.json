@@ -1,13 +1,13 @@
 {
-    "org": "LearningOS",
+    "org": "uCore-x86-classroom-test",
     "classrooms": [
         {
-            "name": "19380377-2022-training-comp-on-open-source-os",
-            "assignments": ["lab0-1-run-os2", "lab1-os3", "lab2-os4"],
-            "studentBlacklist": []
+            "name": "uCore-x86-classroom-test-classroom-01f653",
+            "assignments": ["base"],
+            "studentBlacklist": ["july-12"]
         }
     ],
     "website": {
-        "title": "2022开源操作系统训练营排行榜"
+        "title": "uCore-x86-32"
     }
 }
