@@ -11,8 +11,3 @@
         "title": "uCore-x86-32"
     }
 }
-
-
-{
-  "assignments": ["learning-rust", { "branches": ["lab0", "lab1"] }]
-}
