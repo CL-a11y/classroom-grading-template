@@ -3,7 +3,7 @@
     "classrooms": [
         {
             "name": "108709782-ucore-x86-classroom-test-classroom-01f653",
-            "assignments": ["learning-rust", { "branches": ["lab0", "lab1","lab2","lab3","lab4","lab5","lab6","lab7","lab8"] }],
+            "assignments": ["base", { "branches": ["lab0", "lab1","lab2","lab3","lab4","lab5","lab6","lab7","lab8"] }],
             "studentBlacklist": ["july-12"]
         }
     ],
