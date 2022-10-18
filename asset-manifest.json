@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0b762466.css",
+    "main.js": "./static/js/main.e969b869.js",
+    "static/js/787.6f82f5c5.chunk.js": "./static/js/787.6f82f5c5.chunk.js",
+    "static/media/teacharContact.jpeg": "./static/media/teacharContact.cd05d5953e466c594107.jpeg",
+    "index.html": "./index.html",
+    "main.0b762466.css.map": "./static/css/main.0b762466.css.map",
+    "main.e969b869.js.map": "./static/js/main.e969b869.js.map",
+    "787.6f82f5c5.chunk.js.map": "./static/js/787.6f82f5c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b762466.css",
+    "static/js/main.e969b869.js"
+  ]
+}
